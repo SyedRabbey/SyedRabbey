@@ -6,6 +6,7 @@
 - 💬 Ask me about the financial markets and birds. Those are my interests outside of coding 
 - 📫 How to reach me: you can email me @ hh6071@wayne.edu, just add in te subject, "from Github"
 - 😄 Pronouns: he / him
+
 I plan to use my Github as a collection of all my projects as well as to advance my coding abilities. I love being able to reflect on my progress as a coder.
 
 <!--
