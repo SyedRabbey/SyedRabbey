@@ -1,31 +1,18 @@
-###
-
-<div id="header" align="center">
-  <h3>Hi there, I'm Syed !</h3>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXQ5Z252MHB5dWoxaDlhMm5ta3l1NHF2aW9lajlsam1kdDN5MnVvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtOkaikiwaR87ZvAFH/giphy.gif" width="100"/>
-</div>
+# 👋 Hello!
+📖 I'm studying Computer Science with a Minor in MIS.<br>🔭 I'm interested in providing efficient business solutions through programming.<br>☁️ I'm looking to help with any cloud-based applications & integration. <br>⚡Fun fact - I share the same first name with 2 other immediate family members!
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/syed-rabbey) [![AWS Cloud Club Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/DcWaWBapWh)  
 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 Get in Touch:
+![](https://github-readme-stats.vercel.app/api?username=SyedRabbey&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SyedRabbey&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedRabbey&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 📖 I'm studying Computer Science with a minor in Information Systems Management. 
-- 🔭 I’m interested in providing innovative business solutions through programming.
-- 👯 I’m looking to collaborate on any neat projects that require cloud implementation (AWS/Azure).
-- 💬 Outside of coding, I'm into biking, weightlifting, cars, coffee, and a whole lot more! 
+---
+[![](https://visitcount.itsvg.in/api?id=SyedRabbey&icon=4&color=12)](https://visitcount.itsvg.in)
 
-I plan to use my Github as a collection of all my projects as well as to advance my coding abilities. I love being able to reflect on my progress in real-time!
-
-<!--
-**SyedRabbey/SyedRabbey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on improving my programming skills as well as applying for internships
-- 🌱 I’m currently learning SQL and sharpening my C++ skills
-- 👯 I’m looking to collaborate on any neat projects that preferably require Full Stack development
-- 💬 Ask me about the financial markets and birds. Those are my interests outside of coding 
-- 📫 How to reach me: you can email me @ hh6071@wayne.edu, just add in te subject, "from Github"
-- 😄 Pronouns: he / him
-
-
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
