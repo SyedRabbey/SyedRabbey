@@ -1,6 +1,6 @@
 # 👋 Hello!
 
-<img src="https://drive.google.com/file/d/1VHWsAZuDCAJuBewoaQQhvDDe5Af9sanR/view?usp=sharing" alt="resume" data-canonical-src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" style="max-width: 100%;">
+<img src="" alt="resume" data-canonical-src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" style="max-width: 100%;">
 
 🤵🏽 I am the official AWS Cloud Club Captain of my school!<br> 🔭 I'm interested in providing efficient business solutions through programming.<br>☁️ I'm looking to help with any cloud-based applications & integration. <br>⚡Fun fact - I share the same first name with 2 other immediate family members!<be> View my projects here!
 
