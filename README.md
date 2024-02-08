@@ -1,5 +1,7 @@
 # 👋 Hello!
 
+<img src="https://camo.githubusercontent.com/64f830c2deaf2231644d3c583d38133fa3847929b886fb3d893c5546a46f6485/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526573756d652d3432383546343f7374796c653d666f722d7468652d6261646765266c6f676f3d726561642d7468652d646f6373266c6f676f436f6c6f723d7768697465" alt="resume" data-canonical-src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" style="max-width: 100%;">
+
 📖 I'm studying Computer Science with a Minor in MIS.<br> 🤵🏽 I am the official AWS Cloud Club Captain of my school!<br> 🔭 I'm interested in providing efficient business solutions through programming.<br>☁️ I'm looking to help with any cloud-based applications & integration. <br>⚡Fun fact - I share the same first name with 2 other immediate family members!
 
 
