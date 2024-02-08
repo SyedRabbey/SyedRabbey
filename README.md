@@ -1,5 +1,7 @@
-### Hi there, I'm Syed !
+###
+
 <div id="header" align="center">
+  <h3>Hi there, I'm Syed !</h3>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXQ5Z252MHB5dWoxaDlhMm5ta3l1NHF2aW9lajlsam1kdDN5MnVvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtOkaikiwaR87ZvAFH/giphy.gif" width="100"/>
 </div>
 
