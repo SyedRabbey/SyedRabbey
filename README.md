@@ -1,6 +1,6 @@
 ### Hi there, I'm Syed !
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1nZGJlajN3cHp4dXJscm96NDgzNGNxeHU2dWVrM2RnOWYxM2U5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXQ5Z252MHB5dWoxaDlhMm5ta3l1NHF2aW9lajlsam1kdDN5MnVvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtOkaikiwaR87ZvAFH/giphy.gif" width="100"/>
 </div>
 
 
