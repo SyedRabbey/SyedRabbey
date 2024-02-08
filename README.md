@@ -1,6 +1,7 @@
-### Hi there, I'm Syed ![WavingWaveGIF](https://github.com/SyedRabbey/SyedRabbey/assets/103811460/a758eec8-20cb-45e4-8bcf-1dcef02627d8)
-![ForestGumpWaveGIF](https://github.com/SyedRabbey/SyedRabbey/assets/103811460/cd39cb54-3b55-4b1e-abdd-a9f557415a90)
-
+### Hi there, I'm Syed !
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 
 
