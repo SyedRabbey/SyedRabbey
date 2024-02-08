@@ -3,7 +3,7 @@
 
 
 
-🤵🏽 I am the official AWS Cloud Club Captain of my school!<br> 🔭 I'm interested in providing efficient business solutions through programming.<br>☁️ I'm looking to help with any cloud-based applications & integration. <br>⚡Fun fact - I share the same first name with 2 other immediate family members!<br> View my work here!
+🤵🏽 I am the official AWS Cloud Club Captain of my school!<br> 🔭 I'm interested in providing efficient business solutions through programming.<br>☁️ I'm looking to help with any cloud-based applications & integration. <br>⚡Fun fact - I share the same first name with 2 other immediate family members!<br>💻View my work here!
 
 
 
